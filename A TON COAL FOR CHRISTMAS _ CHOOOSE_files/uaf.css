@@ -1,0 +1,52 @@
+			@font-face {
+				font-family: 'museosans';
+				font-style: normal;
+				src: url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925033218museosans.eot');
+				src: local('museosans'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925033218museosans.eot') format('embedded-opentype'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925033218museosans.woff') format('woff');
+			}
+            
+            .museosans{font-family: 'museosans' !important;}
+            
+					@font-face {
+				font-family: 'museosans700';
+				font-style: normal;
+				src: url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925045939museosans700.eot');
+				src: local('museosans700'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925045939museosans700.eot') format('embedded-opentype'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925045939museosans700.woff') format('woff');
+			}
+            
+            .museosans700{font-family: 'museosans700' !important;}
+            
+					@font-face {
+				font-family: 'minion';
+				font-style: normal;
+				src: url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925050014minion.eot');
+				src: local('minion'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925050014minion.eot') format('embedded-opentype'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/180925050014minion.woff') format('woff');
+			}
+            
+            .minion{font-family: 'minion' !important;}
+            
+					@font-face {
+				font-family: 'museosans900';
+				font-style: normal;
+				src: url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061205museosans900.eot');
+				src: local('museosans900'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061205museosans900.eot') format('embedded-opentype'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061205museosans900.woff') format('woff');
+			}
+            
+            .museosans900{font-family: 'museosans900' !important;}
+            
+					@font-face {
+				font-family: 'museosans500';
+				font-style: normal;
+				src: url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061233museosans500.eot');
+				src: local('museosans500'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061233museosans500.eot') format('embedded-opentype'), url('/nas/content/live/chooose/wp-content/uploads//useanyfont/181115061233museosans500.woff') format('woff');
+			}
+            
+            .museosans500{font-family: 'museosans500' !important;}
+            
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'museosans900' !important;
+				}
+						p, blockquote, li, a{
+					font-family: 'museosans500' !important;
+				}
+		
